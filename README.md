@@ -24,22 +24,20 @@ This training material is designed to make it easier for new users and data prov
   - Instructions on "[Getting Started](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs/GRDI_DataHarmonizer-SOP-7.6.pdf)". Further information about application functionality can be found on the [DataHarmonizer Wiki](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started).
 
 
-### Field and Term Reference Guides
-- [XLSX version](https://github.com/cbarcl01/GRDI_Training_Workshops/tree/main/Reference%20Guide)
-- PDF version
-  - [Field Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
-  - [Term Reference Guide](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/Reference%20Guide)
+### 1. Field and Term Reference Guides
+- [XLSX version](https://github.com/cbarcl01/GRDI_Training_Workshop/blob/main/Reference%20Guide/GRDI_Master-Reference-Guide_v14.5.4.xlsx)
 
 
-### Curation Standard Operating Procedure (SOP)
-- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
+### 2. Standard Operating Procedure (SOP)
+#### 2.a) Curation SOP
+- [PDF version](https://github.com/cbarcl01/GRDI_Training_Workshop/blob/main/SOPs/GRDI_Metadata-Curation-SOP-14.5.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vTFrkZ5CaZTgoQLnAnIYPVOrDhl1xkYvCaMIcQ4BfcvH77N9vcy5zRnjyM6dvl4ZwYK2EwhDTc1Rvl1/pub)
 
-### DataHarmonizer Download and Operation Instructions (SOP)
-- [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/blob/main/SOPs)
+#### 2.b) DataHarmonizer Download and Operation Instructions SOP
+- [PDF version](https://github.com/cbarcl01/GRDI_Training_Workshop/blob/main/SOPs/GRDI_DataHarmonizer-SOP-14.5.pdf)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQgwhvNtRRw4lgLx807LF7VCtynshapoSPOUEvFcPNORmdUyJ1_KVm_rTDRwivW4Ppwy9s-rZfLqZmx/pub)
 
-### New Term Request Standard Operating Procedure (SOP)
+#### 2.c) New Term Request SOP
 - [PDF version](https://github.com/cidgoh/GRDI_AMR_One_Health/tree/main/SOPs)
 - [Online version](https://docs.google.com/document/d/e/2PACX-1vQN0xPHYyr7Tgvu7RYHYGNY2QHh8Vb9XaoIw7we0VmaR5JsjV_OIdyn4wuGBz7dXPqFPT67mjJmjiUl/pub)
 
